@@ -15,3 +15,5 @@ Used Python and GeoPy to get coordinates of cities, and used that to create a ma
 Created a view for each KPI
 
 Dashboard in Grafana.
+
+Database was given by the school.
