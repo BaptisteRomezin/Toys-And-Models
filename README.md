@@ -17,3 +17,17 @@ Created a view for each KPI
 Dashboard in Grafana.
 
 Database was given by the school.
+
+Here is a look at some of the visualisations.
+
+
+![Exemple4](https://github.com/BaptisteRomezin/Toys-And-Models/blob/main/KPI%20Turnover%20per%20city.png?raw=true)
+
+
+![Exemple1](https://github.com/BaptisteRomezin/Toys-And-Models/blob/main/Chart%20Finances.png?raw=true)
+
+
+![Exemple2](https://github.com/BaptisteRomezin/Toys-And-Models/blob/main/Chart%20Logistics.png?raw=true)
+
+
+![Exemple3](https://github.com/BaptisteRomezin/Toys-And-Models/blob/main/Chart%20Sales.png?raw=true)
